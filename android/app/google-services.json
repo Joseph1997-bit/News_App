@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "3322682402",
+    "project_id": "newsapp-644a4",
+    "storage_bucket": "newsapp-644a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3322682402:android:57c3cc076a7969847c7e7b",
+        "android_client_info": {
+          "package_name": "com.example.news_app_hadi_kachmar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3322682402-t5ufu35ark86ld1dminumjhua0fgi96o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLFxHHb_SLWeW4qubeCOaDoCBDlWaTfyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3322682402-t5ufu35ark86ld1dminumjhua0fgi96o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
